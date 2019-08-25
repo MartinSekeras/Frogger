@@ -1,2 +1,10 @@
-﻿  Frogger.vcxproj -> C:\Users\martin\Desktop\Actually_Frog\Frogger\Frogger\Debug\Frogger.exe
-  Frogger.vcxproj -> C:\Users\martin\Desktop\Actually_Frog\Frogger\Frogger\Debug\Frogger.pdb (Partial -> Full PDB)
+﻿  Car.cpp
+  game.cpp
+  Van.cpp
+  CollisionCheck.cpp
+  main.cpp
+  Player.cpp
+  TextureLoader.cpp
+  Generating Code...
+F:\GitHub Repositories\Frogger\Frogger\Frogger\game.cpp(208,27): warning C4305:  'argument': truncation from 'double' to 'float'
+  Frogger.vcxproj -> F:\GitHub Repositories\Frogger\Frogger\Debug\Frogger.exe
